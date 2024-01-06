@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New Folder\\DevCard\\DevCard\\DevCard.csproj": {}
+    "D:\\New Folder\\DevCard\\DevCard.csproj": {}
   },
   "projects": {
-    "D:\\New Folder\\DevCard\\DevCard\\DevCard.csproj": {
+    "D:\\New Folder\\DevCard\\DevCard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New Folder\\DevCard\\DevCard\\DevCard.csproj",
+        "projectUniqueName": "D:\\New Folder\\DevCard\\DevCard.csproj",
         "projectName": "DevCard",
-        "projectPath": "D:\\New Folder\\DevCard\\DevCard\\DevCard.csproj",
+        "projectPath": "D:\\New Folder\\DevCard\\DevCard.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\New Folder\\DevCard\\DevCard\\obj\\",
+        "outputPath": "D:\\New Folder\\DevCard\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
