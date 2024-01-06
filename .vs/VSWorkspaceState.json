@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DevCard",
+    "\\DevCard\\Controllers",
+    "\\DevCard\\Views",
+    "\\DevCard\\Views\\Home",
+    "\\DevCard\\Views\\Shared"
   ],
-  "SelectedNode": "\\D:\\New Folder\\DevCard",
+  "SelectedNode": "\\DevCard\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
