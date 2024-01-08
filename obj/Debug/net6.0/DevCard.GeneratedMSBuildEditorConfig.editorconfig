@@ -15,8 +15,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\New Folder\DevCard
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/New Folder/DevCard/Views/Home/Components/Article/_Article.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXEFydGljbGVcX0FydGljbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New Folder/DevCard/Views/Home/Components/Project/_ProjectViewComponent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXFByb2plY3RcX1Byb2plY3RWaWV3Q29tcG9uZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/New Folder/DevCard/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New Folder/DevCard/Views/Home/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New Folder/DevCard/Views/Home/Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/New Folder/DevCard/Views/Home/Index.cshtml]
