@@ -11,10 +11,20 @@ namespace DevCard.Controllers
         {
             return View();
         }
-
+        [HttpGet]
         public IActionResult Contact()
         {
-            return View();
+            Form form = new Form();
+
+            return View(form);
+        }
+        [HttpPost]
+        public JsonResult Contact(Form form)
+        {
+
+            Console.WriteLine(form.ToString());
+           
+            return Json(Ok());
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SJ7H7tcX/42jABsCxja1PAhY8nb2/iyZVKbODbqcqAA=",
+  "Hash": "k1i0DGpSRUx9DW2adN5QH71D+n1S+MwDE9cM/XzijOQ=",
   "Source": "DevCard",
   "BasePath": "_content/DevCard",
   "Mode": "Default",
@@ -1800,6 +1800,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\plugins\\popper.min.js"
+    },
+    {
+      "Identity": "D:\\New Folder\\DevCard\\wwwroot\\text.txt",
+      "SourceId": "DevCard",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\New Folder\\DevCard\\wwwroot\\",
+      "BasePath": "_content/DevCard",
+      "RelativePath": "text.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\text.txt"
     }
   ]
 }
